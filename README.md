@@ -12,6 +12,7 @@ Keeping the streak going until I get a job inshaAllah
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -28,4 +29,9 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shahriarshaheen/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
