@@ -24,6 +24,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0001-two-sum](https://github.com/shahriarshaheen/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shahriarshaheen/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -43,4 +44,8 @@ Keeping the streak going until I get a job inshaAllah
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shahriarshaheen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
