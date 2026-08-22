@@ -9,6 +9,7 @@ Keeping the streak going until I get a job inshaAllah
 | ------- |
 | [0125-valid-palindrome](https://github.com/shahriarshaheen/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/shahriarshaheen/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -30,6 +31,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shahriarshaheen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -89,4 +91,8 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
