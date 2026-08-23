@@ -7,6 +7,7 @@ Keeping the streak going until I get a job inshaAllah
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shahriarshaheen/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/shahriarshaheen/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -28,6 +29,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shahriarshaheen/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shahriarshaheen/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -40,6 +42,7 @@ Keeping the streak going until I get a job inshaAllah
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shahriarshaheen/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
