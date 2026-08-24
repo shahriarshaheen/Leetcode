@@ -38,6 +38,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -98,4 +99,5 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
