@@ -12,6 +12,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0125-valid-palindrome](https://github.com/shahriarshaheen/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/shahriarshaheen/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/shahriarshaheen/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -38,6 +39,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shahriarshaheen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/shahriarshaheen/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
