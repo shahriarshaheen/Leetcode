@@ -14,6 +14,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shahriarshaheen/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shahriarshaheen/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -25,6 +26,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0205-isomorphic-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shahriarshaheen/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -105,4 +107,8 @@ Keeping the streak going until I get a job inshaAllah
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
