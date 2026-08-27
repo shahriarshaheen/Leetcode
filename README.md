@@ -20,6 +20,7 @@ Keeping the streak going until I get a job inshaAllah
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shahriarshaheen/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -56,6 +57,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shahriarshaheen/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -113,4 +115,8 @@ Keeping the streak going until I get a job inshaAllah
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahriarshaheen/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
