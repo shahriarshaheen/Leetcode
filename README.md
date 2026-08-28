@@ -21,6 +21,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/shahriarshaheen/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shahriarshaheen/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -119,4 +120,12 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shahriarshaheen/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shahriarshaheen/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
