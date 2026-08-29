@@ -39,6 +39,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0015-3sum](https://github.com/shahriarshaheen/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/shahriarshaheen/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahriarshaheen/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -106,9 +107,11 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/shahriarshaheen/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shahriarshaheen/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
