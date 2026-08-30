@@ -48,6 +48,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0283-move-zeroes](https://github.com/shahriarshaheen/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -123,6 +124,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
