@@ -51,6 +51,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -132,6 +133,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0020-valid-parentheses](https://github.com/shahriarshaheen/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shahriarshaheen/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -144,4 +146,8 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
