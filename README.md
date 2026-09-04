@@ -17,6 +17,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0392-is-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shahriarshaheen/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0567-permutation-in-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -56,6 +57,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0567-permutation-in-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +85,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0217-contains-duplicate](https://github.com/shahriarshaheen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahriarshaheen/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
