@@ -58,6 +58,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
