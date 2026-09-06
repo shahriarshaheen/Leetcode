@@ -55,6 +55,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shahriarshaheen/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -91,6 +92,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shahriarshaheen/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
