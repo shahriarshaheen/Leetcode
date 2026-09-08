@@ -162,6 +162,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3870-count-commas-in-range](https://github.com/shahriarshaheen/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Monotonic Stack
 |  |
 | ------- |
