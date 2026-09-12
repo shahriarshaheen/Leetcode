@@ -51,6 +51,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0217-contains-duplicate](https://github.com/shahriarshaheen/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shahriarshaheen/Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shahriarshaheen/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shahriarshaheen/Leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
@@ -171,4 +173,8 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
