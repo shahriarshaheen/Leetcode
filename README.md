@@ -33,6 +33,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0392-is-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shahriarshaheen/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0567-permutation-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shahriarshaheen/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/shahriarshaheen/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -167,6 +168,7 @@ Keeping the streak going until I get a job inshaAllah
 | ------- |
 | [0009-palindrome-number](https://github.com/shahriarshaheen/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3870-count-commas-in-range](https://github.com/shahriarshaheen/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shahriarshaheen/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
@@ -177,4 +179,12 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
