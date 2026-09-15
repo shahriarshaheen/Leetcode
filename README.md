@@ -63,6 +63,7 @@ Keeping the streak going until I get a job inshaAllah
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shahriarshaheen/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahriarshaheen/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0011-container-with-most-water](https://github.com/shahriarshaheen/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shahriarshaheen/Leetcode/tree/master/0605-can-place-flowers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shahriarshaheen/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
