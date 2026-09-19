@@ -61,6 +61,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shahriarshaheen/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/shahriarshaheen/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/shahriarshaheen/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -159,6 +160,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0020-valid-parentheses](https://github.com/shahriarshaheen/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shahriarshaheen/Leetcode/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/shahriarshaheen/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -213,5 +215,6 @@ Keeping the streak going until I get a job inshaAllah
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/shahriarshaheen/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/shahriarshaheen/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
