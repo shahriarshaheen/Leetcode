@@ -23,6 +23,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shahriarshaheen/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shahriarshaheen/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shahriarshaheen/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
@@ -82,6 +83,7 @@ Keeping the streak going until I get a job inshaAllah
 | ------- |
 | [0001-two-sum](https://github.com/shahriarshaheen/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahriarshaheen/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shahriarshaheen/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shahriarshaheen/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shahriarshaheen/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shahriarshaheen/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -179,6 +181,7 @@ Keeping the streak going until I get a job inshaAllah
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shahriarshaheen/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shahriarshaheen/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/shahriarshaheen/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
