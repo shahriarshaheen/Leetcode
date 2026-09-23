@@ -67,6 +67,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0739-daily-temperatures](https://github.com/shahriarshaheen/Leetcode/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/shahriarshaheen/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahriarshaheen/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahriarshaheen/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shahriarshaheen/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -94,6 +95,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0567-permutation-in-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/shahriarshaheen/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shahriarshaheen/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahriarshaheen/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shahriarshaheen/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahriarshaheen/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -111,6 +113,7 @@ Keeping the streak going until I get a job inshaAllah
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shahriarshaheen/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shahriarshaheen/Leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahriarshaheen/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
@@ -148,6 +151,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0074-search-a-2d-matrix](https://github.com/shahriarshaheen/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahriarshaheen/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shahriarshaheen/Leetcode/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahriarshaheen/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +164,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0567-permutation-in-string](https://github.com/shahriarshaheen/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shahriarshaheen/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shahriarshaheen/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahriarshaheen/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
