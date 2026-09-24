@@ -72,6 +72,7 @@ Keeping the streak going until I get a job inshaAllah
 | [1732-find-the-highest-altitude](https://github.com/shahriarshaheen/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shahriarshaheen/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shahriarshaheen/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shahriarshaheen/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Keeping the streak going until I get a job inshaAllah
 | [0150-evaluate-reverse-polish-notation](https://github.com/shahriarshaheen/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/shahriarshaheen/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shahriarshaheen/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shahriarshaheen/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shahriarshaheen/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shahriarshaheen/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
